@@ -351,7 +351,3 @@ if not df_dyn.empty:
 if auto:
     time.sleep(intervalo)
     st.rerun()
-
-
-
-
